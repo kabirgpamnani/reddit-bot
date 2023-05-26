@@ -8,3 +8,6 @@ A python script that when run automatically replies to comments with the keyword
 - Learn how to use the Python Reddit API Wrapper (PRAW) to scrape reddit
 - Learn the logic behind a python generated bot in order to be able to write more complex scripts that can automate tasks (not exclusively on reddit; eg other platforms)
 
+## Built with
+
+
