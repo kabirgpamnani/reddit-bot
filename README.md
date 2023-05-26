@@ -9,5 +9,9 @@ A python script that when run automatically replies to comments with the keyword
 - Learn the logic behind a python generated bot in order to be able to write more complex scripts that can automate tasks (not exclusively on reddit; eg other platforms)
 
 ## Built with
+[![PRAW][PRAW]][PRAW-url]
 
 
+
+[PRAW]: images/praw.png
+[PRAW-url]: https://praw.readthedocs.io/en/stable/
